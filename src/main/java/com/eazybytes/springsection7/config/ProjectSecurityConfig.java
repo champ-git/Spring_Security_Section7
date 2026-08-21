@@ -37,6 +37,7 @@ public class ProjectSecurityConfig {
         return http.build();
     }
 
+
     //Configuring users using InMemoryUserDetailsManager
    /* @Bean
     public UserDetailsService userDetailsService(){
